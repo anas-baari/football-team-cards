@@ -12,3 +12,5 @@ A dynamic web application that displays player information and allows users to f
 - **HTML5:** Semantic structure for the team dashboard.
 - **CSS3:** Custom styling for the player cards and layout.
 - **JavaScript (Vanilla):** Implements `filter()`, `switch` statements, and DOM updates without external libraries.
+
+![Project Preview](./preview.png)
